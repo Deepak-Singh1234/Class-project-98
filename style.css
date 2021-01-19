@@ -1,4 +1,7 @@
-
+body{
+    background-image: url("");
+    background-attachment: cover;
+}
 
 #start-btn
 {
